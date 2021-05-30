@@ -15,3 +15,6 @@ Using 'useState' Hook to hook into the state of the 'todo-list'array to be updat
 
 ![image](https://user-images.githubusercontent.com/48888775/120102665-1759be80-c11a-11eb-97d7-ddbdf60a8259.png)
 
+![image](https://user-images.githubusercontent.com/48888775/120102722-6c95d000-c11a-11eb-9280-15794aac3991.png)
+
+
